@@ -5,13 +5,13 @@ Cars4You Machine Learning Project
 ## Project Overview
 This project was developed for the "Cars 4 You" company to address the growing demand for car evaluations. The main goal is to build a Machine Learning regression model capable of accurately predicting the resale price of a vehicle based on its characteristics, eliminating the need for immediate physical inspection by a mechanic.
 
-## 📊 Dataset
+## Dataset
 The dataset contains approximately 75,000 records of used cars sold in 2020. The target variable is `price`.
 Key features include:
 * **Categorical:** `Brand`, `model`, `transmission`, `fuelType`.
 * **Numerical:** `year`, `mileage`, `tax`, `mpg`, `engineSize`, `paintQuality%`, `previousOwners`.
 
-## 🛠️ Project Pipeline
+## Project Pipeline
 The solution follows a structured Data Science pipeline:
 
 ### 1. Data Cleaning & Preprocessing
